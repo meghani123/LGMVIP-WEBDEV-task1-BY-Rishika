@@ -1,0 +1,27 @@
+body{
+    background-color: burlywood;
+}
+.photos{
+    background-color: cadetblue;
+    height:  300pt;
+    width: 350pt;
+    margin-left: 200px;
+    border: solid 1px black;
+    border-radius: 4500px;
+margin-top: 70px;
+}
+.name{
+    margin-top: 2%;
+    text-align: center;
+    margin-right: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: green;
+}
+.email{
+    margin-top: 2%;
+        color:black;
+ margin-left:300px;    
+ font-style: italic;   
+
+}
